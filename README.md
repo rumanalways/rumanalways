@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rumanalways@gmail.com**
 
-- 📄 Know about my experiences [SEO, WordPress](C/C++,JAVA, HTML,CSS, JavaScript, SEO and WordPress)
+- 📄 Know about my experiences (C/C++,JAVA, HTML,CSS, JavaScript, SEO and WordPress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
