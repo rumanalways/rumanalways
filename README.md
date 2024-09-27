@@ -1,5 +1,5 @@
 <h1 align="center">Hi I am Rejaul Islam Ruman</h1>
-<h3 align="center">I love learning programming languages. And I'm an expert in WordPress.</h3>
+<h3 align="center">Hey guys, This is Rejaul Islam Ruman. Now I study Computer Science and Engineering (CSE) at Dhaka International University. I love Learning Programming And I'm an expert in WordPress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumanalways&label=Profile%20views&color=0e75b6&style=flat" alt="rumanalways" /> </p>
 
@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Code Wizards**
 
-- 📫 How to reach me **rumanrejaul@gmail.com**
+- 📫 How to reach me **rumanalways@gmail.com**
 
-- 📄 Know about my experiences [SEO, WordPress](SEO, WordPress)
+- 📄 Know about my experiences [SEO, WordPress](C/C++,JAVA, HTML,CSS, JavaScript, SEO and WordPress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
